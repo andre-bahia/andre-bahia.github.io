@@ -1084,8 +1084,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 .menu-toggle {
-	float: left;
-	width: 40px;
+	width: 60px;
 	height: 40px;
 	margin-left: 20px;
 	margin-top: 13px;
@@ -1250,7 +1249,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
